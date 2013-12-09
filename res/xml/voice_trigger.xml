@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trigger keyword="@string/connect_trinket">
+<!--     <input prompt="@string/flashlight_prompt" /> -->
+</trigger>
